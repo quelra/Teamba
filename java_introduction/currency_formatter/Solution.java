@@ -1,4 +1,4 @@
-package java_introduction;
+package java_introduction.currency_formatter;
 import java.io.*;
 import java.util.*;
 import java.text.*;
